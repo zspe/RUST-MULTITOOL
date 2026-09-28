@@ -129,7 +129,7 @@ Don't point it at anything you don't have written permission to test. I'm not re
 ## Links
 
 - GitHub: [github.com/zedwed11](https://github.com/zedwed11)
-- Other projects: [github.com/zedwed11/Aya-Multitool](https://github.com/zedwed11/Aya-Multitool)
+- Other projects: [github.com/zedwed11/Aya-Multitool](https://github.com/zedwed11/Aya-Multitool), [https://github.com/zspe/DoS-PREMIUM]
 - Discord: [discord.gg/FB7d4HwM4Y](https://discord.gg/FB7d4HwM4Y)
 
 ---
