@@ -1,5 +1,7 @@
 # Rust-Multitool 🕷️
 
+![RUST-MULTITOOL Banner](https://github.com/zspe/RUST-MULTITOOL/raw/main/rustpic.png)
+
 A Python-based web crawling and reconnaissance tool built for educational cybersecurity, bug bounty recon, and authorized lab environments.
 
 Built by [zed](https://github.com/zedwed11).
